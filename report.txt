@@ -1,0 +1,3 @@
+NAME                     CPU(cores)   MEMORY(bytes)   
+myapp                    19m          15Mi            
+ubuntu-ff8c8787c-jvsq2   0m           1Mi             
